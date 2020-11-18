@@ -16,3 +16,4 @@ Fully feature of [Lede-Android Premium](https://github.com/LittleRey/Lede-Androi
 * `armeabi-v7a` , `arm64-v8a`, `x86` or `x86_64` Architecture
 
 
+### Please Wait for updata
